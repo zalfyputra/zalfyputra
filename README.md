@@ -2,14 +2,8 @@
 
 I'm Zalfy Putra — A final year Computer Engineering student at Universitas Indonesia. I am interested in Software Web Engineering and currently learning various languages and frameworks for Back End Development.
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,angular,apple, arduino,aws,azure,bootstrap,c,cpp,codepen,css,dart,django,docker,express,figma,firebase,flask,gcp,git,github,gmail,go,gradle,heroku,html,idea,java,js,jenkins,jest,jquery,kubernetes,linux,md,matlab,mongodb,mysql,nestjs,nextjs,nodejs,octave,postgres,postman,prisma,py,pytorch,react,redux,replit,spring,sublime,tailwind,tensorflow,ts,vercel,vscode,vue,wordpress,yarn&perline=10)](https://skillicons.dev)
-<!--
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,apple, arduino,aws,azure,bootstrap,c,cpp,codepen,css,dart,django,docker,express,figma,firebase,flask,gcp,git,github,gmail,go,gradle,heroku,html,idea,java,js,jenkins,jest,jquery,kubernetes,linux,md,matlab,mongodb,mysql,nestjs,nextjs,nodejs,octave,postgres,postman,prisma,py,pytorch,react,redux,replit,spring,sublime,tailwind,tensorflow,ts,vercel,vscode,vue,wordpress,yarn&perline=10" height="110"/>
-  </a>
-</p>
--->
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,c,cpp,css,dart,docker,express,figma,firebase,gcp,git,github,html,idea,java,js,mongodb,mysql,nestjs,nextjs,nodejs,postgres,postman,prisma,py,pytorch,react,tailwind,tensorflow,ts,vercel,vscode,vue,wordpress,gcp,azure,react,vue,flutter&perline=14)](https://skillicons.dev)
+
 <!--
 **zalfyputra/zalfyputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
