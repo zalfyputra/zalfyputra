@@ -4,7 +4,7 @@ I'm Zalfy Putra — A final year Computer Engineering student at Universitas Ind
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,apple, arduino,aws,azure,bootstrap,c,cpp,codepen,css,dart,django,docker,express,figma,firebase,flask,gcp,git,github,gmail,go,gradle,heroku,html,idea,java,js,jenkins,jest,jquery,kubernetes,linux,md,matlab,mongodb,mysql,nestjs,nextjs,nodejs,octave,postgres,postman,prisma,py,pytorch,react,redux,replit,spring,sublime,tailwind,tensorflow,ts,vercel,vscode,vue,wordpress,yarn&perline=10">
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,apple, arduino,aws,azure,bootstrap,c,cpp,codepen,css,dart,django,docker,express,figma,firebase,flask,gcp,git,github,gmail,go,gradle,heroku,html,idea,java,js,jenkins,jest,jquery,kubernetes,linux,md,matlab,mongodb,mysql,nestjs,nextjs,nodejs,octave,postgres,postman,prisma,py,pytorch,react,redux,replit,spring,sublime,tailwind,tensorflow,ts,vercel,vscode,vue,wordpress,yarn&perline=10" height="110"/>
   </a>
 </p>
 
