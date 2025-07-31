@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Zalfy Putra — A final year Computer Engineering student at Universitas Indonesia. I am interested in Software Web Engineering and currently learning various languages and frameworks for Back End Development.
+I'm Zalfy Putra — A Computer Engineering fresh graduate at Universitas Indonesia with a passion in the realm of Software Engineering, Product Management, Data Science & AI, Database Systems, and Cloud Services. Excited to learn new things, give meaningful contributions, and build valuable connections.
 
 Here are my tech stacks.
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,c,cpp,css,dart,docker,express,figma,firebase,flutter,gcp,git,github,html,idea,java,js,mongodb,mysql,nestjs,nextjs,nodejs,postgres,postman,prisma,py,pytorch,react,tailwind,tensorflow,ts,vercel,vscode,vue,wordpress&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,aws,azure,c,css,docker,express,figma,firebase,gcp,go,html,java,js,mongodb,mysql,nestjs,nextjs,nodejs,postgres,postman,prisma,py,pytorch,react,tensorflow,ts&perline=15)](https://skillicons.dev)
 
 <!--
 **zalfyputra/zalfyputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
